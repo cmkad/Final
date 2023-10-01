@@ -1,0 +1,3 @@
+import AmazonScraper
+import BestBuyScraper
+import NeweggScraper
